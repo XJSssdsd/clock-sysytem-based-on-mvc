@@ -1,0 +1,7 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:VisualElement>
+        <engine:VisualElement style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px;">
+            <engine:Label text="00:00:00 AM" name="ClockTimeLabel" style="background-color: rgba(0, 0, 0, 0.2); align-items: stretch; justify-content: flex-start; font-size: 25px; color: rgb(247, 212, 212); margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; width: 15%; min-width: auto;" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>
